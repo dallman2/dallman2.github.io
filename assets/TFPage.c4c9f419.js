@@ -1,1 +1,0 @@
-import{Q as t}from"./QPage.e0a93870.js";import{_ as e,q as a,s as o,t as s,v as r}from"./index.db824ca3.js";import"./render.6c10700b.js";const c={},n=r("div",null,"ML Stuff",-1);function _(f,p,i,d,l,u){return a(),o(t,null,{default:s(()=>[n]),_:1})}var h=e(c,[["render",_]]);export{h as default};
