@@ -1,1 +1,0 @@
-import{Q as e}from"./QPage.be25d1d8.js";import{_ as t,m as a,q as s,s as o,t as r,v as n}from"./index.668db619.js";import"./render.ae535fbc.js";const c=a({name:"IndexPage"}),p=n("h1",null,"Boopus Header \u{1F346}",-1);function _(d,i,f,m,u,l){return s(),o(e,{class:"row items-center justify-evenly"},{default:r(()=>[p]),_:1})}var $=t(c,[["render",_]]);export{$ as default};
