@@ -1,0 +1,5 @@
+<<<<<<<< HEAD:assets/use-transition.d6c5015b.js
+import{r as e,f as o,c as a,I as s}from"./index.3d90f9cb.js";const d={transitionShow:{type:String,default:"fade"},transitionHide:{type:String,default:"fade"},transitionDuration:{type:[String,Number],default:300}};function f(t,n){const i=e(n.value);return o(n,r=>{s(()=>{i.value=r})}),{transition:a(()=>"q-transition--"+(i.value===!0?t.transitionHide:t.transitionShow)),transitionStyle:a(()=>`--q-transition-duration: ${t.transitionDuration}ms`)}}export{f as a,d as u};
+========
+import{r as e,f as o,c as a,I as s}from"./index.f1667bdb.js";const d={transitionShow:{type:String,default:"fade"},transitionHide:{type:String,default:"fade"},transitionDuration:{type:[String,Number],default:300}};function f(t,n){const i=e(n.value);return o(n,r=>{s(()=>{i.value=r})}),{transition:a(()=>"q-transition--"+(i.value===!0?t.transitionHide:t.transitionShow)),transitionStyle:a(()=>`--q-transition-duration: ${t.transitionDuration}ms`)}}export{f as a,d as u};
+>>>>>>>> c91aa8196a6ec2d4bf7c083956386f2030ccddcc:assets/use-transition.efcf7264.js
